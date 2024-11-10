@@ -1,6 +1,6 @@
 # Hypermedia-Project-1
 Curriculum Vitae of Jesús Basallote Gallardo.  
-Link to the [website](https://jesusbasalloteinfo.github.io/Hypermedia-Project-1/)  
+Link to the [CV](https://jesusbasalloteinfo.github.io/Hypermedia-Project-1/)  
 Link to the [Figma project](https://www.figma.com/design/pd2742fOSFKU64eugCeZT7/CV?m=auto&t=8fiBy6nmA3IW1yoC-1)  
 
 # User Persona
