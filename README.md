@@ -3,7 +3,9 @@ Curriculum Vitae of Jesús Basallote Gallardo
 
 # User Persona
 This is the User Persona that I've thought:
+
 **Name:** Emma Thompson
+
 **Demographic Profile:**
 - **Age:** 28
 - **Location:** United Kingdom
@@ -23,7 +25,7 @@ Emma is responsible for identifying candidates for technical positions. She need
 - Quick access to the candidate's contact information, relevant experience, and skills.
 - Clearly structured sections for education, experience, skills, and contact information.
 
-**Expectations:**
+**Expectations:**  
 Emma expects to find all relevant information concisely presented on a single page. She values a visually appealing design that conveys professionalism and attention to detail from the candidate.
 
 # Project analysis, Information architecture
