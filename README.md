@@ -2,23 +2,27 @@
 Curriculum Vitae of Jesús Basallote Gallardo
 
 # User Persona
-This is the User Persona that I've thought
+This is the User Persona that I've thought:
 **Name:** Emma Thompson
 **Demographic Profile:**
-•	**Age:** 28
-•	**Location:** United Kingdom
-•	**Profession:** Recruiter at a technology company
-•	**Education Level:** Bachelor's in Psychology and Master's in Human Resources
-•	**Professional Experience:** 4 years in recruitment and talent acquisition for technical roles
+- **Age:** 28
+- **Location:** United Kingdom
+- **Profession:** Recruiter at a technology company
+- **Education Level:** Bachelor's in Psychology and Master's in Human Resources
+- **Professional Experience:** 4 years in recruitment and talent acquisition for technical roles
+
 **Goals and Needs:**
 Emma is responsible for identifying candidates for technical positions. She needs to quickly assess if a profile has the required skills, experience, and educational background for a role. Emma values organization and clarity in resumes, as she has limited time to review each one.
+
 **Frustrations:**
-•	Candidates who don’t highlight their skills clearly or present an unprofessional design.
-•	Disorganized information that forces her to spend more time than necessary finding key details.
+- Candidates who don’t highlight their skills clearly or present an unprofessional design.
+- Disorganized information that forces her to spend more time than necessary finding key details.
+
 **Preferences:**
-•	A clean, professional, and mobile-friendly design.
-•	Quick access to the candidate's contact information, relevant experience, and skills.
-•	Clearly structured sections for education, experience, skills, and contact information.
+- A clean, professional, and mobile-friendly design.
+- Quick access to the candidate's contact information, relevant experience, and skills.
+- Clearly structured sections for education, experience, skills, and contact information.
+
 **Expectations:**
 Emma expects to find all relevant information concisely presented on a single page. She values a visually appealing design that conveys professionalism and attention to detail from the candidate.
 
