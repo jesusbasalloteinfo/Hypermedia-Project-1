@@ -30,7 +30,7 @@ Emma is responsible for identifying candidates for technical positions. She need
 **Expectations:**  
 Emma expects to find all relevant information concisely presented on a single page. She values a visually appealing design that conveys professionalism and attention to detail from the candidate.
 
-# Project analysis, Information architecture
+# Project analysis. Information architecture
 The information in the curriculum vitae has been organized with the aim of helping recruiters and hiring managers identify the most relevant aspects of the candidate's profile. By structuring the content into clear and concise sections, the goal is to highlight the education, work experience, and skills of the applicant. 
 
 At the top, a header displays my name, title, and a brief personal statement describing in a sentence my personality, causing a good first impression to recruiters and hiring managers. 
@@ -41,7 +41,7 @@ The left column contains my personal information, such as contact details, educa
 
 On the right column, the focus is on my professional experience and my learned skills. The experience section lists relevant work experience with a brief description of it. This is followed by the skills section, where technical skills are listed, giving recruiters an immediate knowledge of the candidate's skills. 
 
-# Project analysis, Visual design
+# Project analysis. Visual design
 The visual design of this curriculum vitae prioritizes a professional, clean, and modern look to appeal to industry recruiters and hiring managers. A colour palette of shades of blue is used as the primary accent, with darker blues for headers and accent lines, representing reliability, intelligence and professionalism.
 
 A neutral, light background is used to enhance readability without overwhelming the user. The main texts colour is dark grey for strong contrast and legibility, among the title texts, that are on blue like the colour palette.
