@@ -1,7 +1,7 @@
 # Hypermedia-Project-1
 Curriculum Vitae of Jesús Basallote Gallardo.  
 Link to the [website](https://jesusbasalloteinfo.github.io/Hypermedia-Project-1/)  
-Link to the [figma project]([https://jesusbasalloteinfo.github.io/Hypermedia-Project-1/](https://www.figma.com/design/pd2742fOSFKU64eugCeZT7/CV?m=auto&t=8fiBy6nmA3IW1yoC-1))  
+Link to the [figma project](https://www.figma.com/design/pd2742fOSFKU64eugCeZT7/CV?m=auto&t=8fiBy6nmA3IW1yoC-1)  
 
 # User Persona
 This is the User Persona that I've thought:
